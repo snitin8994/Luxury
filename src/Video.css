@@ -1,0 +1,10 @@
+.video {
+  width: 100%;
+  height: auto;
+  vertical-align: middle;
+}
+
+.video-container {
+    max-width: 1080px;
+    margin: 0 auto;
+}

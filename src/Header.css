@@ -15,8 +15,13 @@
 }
 
 .header__item {
-  font-size: 2.5rem;
+  font-size: 2.2rem;
+  text-decoration: none;
+  color:white;
   font-family: "Roboto", sans-serif;
+}
+.header__item:hover {
+    color:#276EF1;
 }
 
 @media screen and (max-width: 600px) {
@@ -42,4 +47,5 @@
   font-family: "Roboto", sans-serif;
   color: white;
   margin-right: 0.8rem;
+  cursor: pointer;
 }
