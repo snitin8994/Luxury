@@ -1,0 +1,30 @@
+@import url("https://fonts.googleapis.com/css?family=Noto+Sans+HK&display=swap");
+
+.lr-icon {
+  width: 2.8rem;
+  height: 2.8rem;
+}
+
+.lr-box {
+    border-bottom: 2px solid black;
+    margin-bottom: 3rem;
+}
+
+.lr-icon-container {
+    margin-bottom: 9rem;
+}
+
+.lr-text-main {
+  font-family: 'Noto Sans HK', sans-serif;
+  font-size: 4rem;
+  margin-bottom: 2rem;
+}
+
+.lr-text-link {
+  text-decoration: none;
+  color: black;
+}
+
+.lr-box:hover .lr-text-link{
+  color: #276EF1;
+} 
